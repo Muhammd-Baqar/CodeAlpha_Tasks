@@ -1,1 +1,5 @@
 # CodeAlpha_Tasks
+include Project
+CodeAlpha_StudentGrade
+HotelReservationSystem
+StockTradingPlatform
