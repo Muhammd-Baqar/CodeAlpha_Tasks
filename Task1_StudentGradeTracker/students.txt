@@ -1,0 +1,3 @@
+Ahsan,101,java,58.0,100.0,udru,88.0,100.0,oop,66.0,100.0,islamiyat,77.0,100.0
+farhan,35,java,88.0,100.0,udua,99.0,100.0
+Shabaz,53,java,88.0,100.0,urdu,66.0,100.0

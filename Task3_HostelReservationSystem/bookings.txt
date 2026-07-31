@@ -1,0 +1,78 @@
+Customer: Baqir
+Room Number: 101
+Room Type: Standard
+Days: 10
+Total Bill: Rs. 30000.0
+-----------------------------------
+Customer: Ali
+Room Number: 101
+Room Type: Standard
+Days: 2
+Total Bill: Rs. 6000.0
+-----------------------------------
+Customer: Ali
+Room Number: 101
+Room Type: Standard
+Days: 2
+Total Bill: Rs. 6000.0
+-----------------------------------
+Customer: Ali
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Ali
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Ali
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Ali
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Ahsan 
+Room Number: 201
+Room Type: Deluxe
+Days: 3
+Total Bill: Rs. 15000.0
+-----------------------------------
+Customer: Bair
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: baqir
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Baqir
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Ashan
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
+Customer: Ahsan
+Room Number: 101
+Room Type: Standard
+Days: 3
+Total Bill: Rs. 9000.0
+-----------------------------------
